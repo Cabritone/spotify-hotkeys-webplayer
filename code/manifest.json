@@ -1,0 +1,36 @@
+{
+	"manifest_version": 2,
+	"version": "0.1",
+	"name": "Spotify Hotkeys",
+	"description": "Control Spotify Web Player with your keyboard. Play, pause, skip to the next or previous track wherever you are.",
+	"permissions": [ "https://player.spotify.com/*"  ],
+	"icons": {
+		"128": "icon.png"
+	},
+	"incognito": "split",
+	"background": {
+		"persistent": false,
+		"scripts": [ "script.js" ]
+	},
+	"commands": {
+		"play": {
+			"description": "Play/pause",
+			"suggested_key": "Alt+Shift+P"
+		},
+		"next": {
+			"description": "Next track",
+			"suggested_key": "Alt+Shift+Period"
+		},
+		
+		"previous": {
+			"description": "Previous track",
+			"suggested_key": "Alt+Shift+Comma"
+		},
+		"shuffle": {
+			"description": "Shuffle"
+		},
+		"repeat": {
+			"description": "Repeat"
+		}
+	}
+}
