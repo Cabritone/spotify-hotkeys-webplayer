@@ -1,6 +1,8 @@
 
 # Spotify Hotkeys Webplayer
 
+Chrome Store Extension: http://bit.ly/SpotifyHotkeysExtension
+
 Control your Spotify music collection from anywhere (on your PC) with hotkeys.
 
 Default Shortcuts:
@@ -19,4 +21,4 @@ Extension icon made by Linh (http://linhpham.me), all credits go to her.
 Please contribute with suggestions or report any bug found.
 
 
-Made with ? in Portugal
+Made with ❤ in Portugal
