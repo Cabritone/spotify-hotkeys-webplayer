@@ -12,8 +12,8 @@ Default Shortcuts:
 - Previous   : Alt+Shift+Comma
 
 To Change the default configuration:
-- Open a new tab and type: chrome://extensions
-- On a bottom of the page click on "Keyboard shortcuts"
+- Open a new tab and type: chrome://extensions/shortcuts
+- Find the "Spotify Hotkeys" extension and set the desired shortcuts
 
 
 Extension icon made by Linh (http://linhpham.me), all credits go to her. 
