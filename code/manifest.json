@@ -1,5 +1,5 @@
 {
-	"manifest_version": 3,
+	"manifest_version": 2,
 	"version": "0.3",
 	"name": "Spotify Hotkeys",
 	"description": "Control Spotify Web Player with your keyboard. Play, pause, skip to the next or previous track wherever you are.",
